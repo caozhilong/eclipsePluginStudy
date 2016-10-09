@@ -1,0 +1,9 @@
+target/
+build/
+wiki/
+pages/
+bin/
+*.so
+*.jnilib
+*~
+
